@@ -1,0 +1,30 @@
+.header7{
+    background-color: bisque;
+    }
+    .header7 nav{
+        display: flex;
+        justify-content: space-around;
+    }
+    .header7 nav ul{
+        display: flex;
+        gap: 90px;
+        image-rendering: auto;
+    }
+    .sarthak h1{
+        font-style: italic;
+        font-size: xx-large;
+    }
+    .sarthak h2{
+        font-size: medium;
+    }
+    .sarthak div{
+        display: flex;
+        justify-content: space-around;
+        
+    
+    }
+    .sarthak h2{
+        font-size: larger;
+    }
+    
+    
